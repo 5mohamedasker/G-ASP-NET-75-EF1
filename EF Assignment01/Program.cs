@@ -1,0 +1,10 @@
+﻿namespace EF_Assignment01
+{
+    internal class Program
+    {
+        static void Main()
+        {
+
+        }
+    }
+}
